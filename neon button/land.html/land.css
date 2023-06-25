@@ -1,0 +1,19 @@
+p
+{
+    font-family: fjala one,"consolas";
+    border-style: solid;
+    color:rgba(43, 255, 0, 0.795);
+    border-color: black;
+    align-items: center;
+
+}
+body
+{
+    background:linear-gradient(100deg,#3f464b,#7367F0);
+    display: flex;
+    align-items: center;
+    padding:0;
+    margin:0;
+}
+
+
